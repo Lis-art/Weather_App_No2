@@ -1,0 +1,47 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px;
+    border: 2px solid azure;
+    border-radius: 50px;
+    width: 40%;
+    height: 90%;
+    padding: 50px;
+    background: rgb(0,62,233);
+    background: radial-gradient(circle, rgba(0,62,233,1) 0%, rgba(70,226,252,1) 89%);
+}
+
+.city{
+    margin: 10px;
+}
+
+button{
+    background-color: rgb(9, 97, 229);
+    color: azure;
+    border: 2px solid azure;
+    border-radius: 8px;
+    padding: 7px;
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.output{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+}
+
+.output article{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
